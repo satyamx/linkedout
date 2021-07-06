@@ -1,23 +1,23 @@
-# LinkedinBot - Automating the process of applying and getting referrals easier
+# LinkedOut - Automate the process of sending referral request and cold mailing on LinkedIn
 
 
 ### Overview
 
-It consists of three stages
+It consists of three stages :
 
 #### Stage 1
 
-- in the first Stage the bot fetches the list of all people working in your dream companies and stores them in a csv file
+- In the first Stage the bot fetches the list of all people working in your dream companies and stores them in a csv file.
 
 
 #### Stage2
 
-- In the second stage the bot goes into all the profiles of the persons from the first stage and scraps all their previous experiences including the company Name, Duration and their work details and store them in a csv file
+- In the second stage, the bot goes into all the profiles of the persons from the first stage and scrapes all of their previous experiences including the company Name, Duration and their work details and store them in a csv file.
 
 
 #### Stage3
 
-- In the third stage we retrieve the data of the companies from the second stage and we basically clean the data from the second stage to remove stop words such as Full-time, part-time, contract etc. after cleaning the data we go into each company people section on linkedin and send a customized connection request to all the people working there with a note and your resume.
+- In the third stage, we retrieve the data of the companies from the second stage and we basically clean the data from the second stage to remove stop words such as Full-time, part-time, contract etc. After cleaning the data we go into each company people section on LinkedIn and send a customized connection request to all the people working there with a note and your resume.
 
 ### Requirements
 
