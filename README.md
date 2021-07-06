@@ -24,7 +24,7 @@ It consists of three stages :
 - Python3
 - Selenium
 - Beatiful Soup
--
+
 - Note: Use the chromedriver uploaded in the driver directory of this repo. Not using this version of chromedriver might throw exceptions due to incompatibility between the version of the binaries. 
 
 ### Installation
@@ -34,7 +34,7 @@ It consists of three stages :
 
 ### Run it on Local Machine
 
-- In the config.py file add your Linkedin Username, Linkedin Password ,the customized message you want to send and the your dream companies
+- In the config.py file add your LinkedIn Username, LinkedIn Password ,the customized message you want to send and the your dream companies
 - For the stage 1 - run the command `python3 stage1.py`
 - For the stage 2 - run the command `python3 stage2.py`
 - For the stage 3 - run the command `python3 stage3.py`
@@ -43,7 +43,7 @@ It consists of three stages :
 
 ### Caution
 
-- Linkedin monitors the number of profiles you view and the amount of connection request you send.
+- LinkedIn monitors the number of profiles you view and the amount of connection request you send.
 - I strongly recommend you not to visit more than 1000 profiles and not send more than 100 connection request per week
 - To prevent this i have have added a checker which will break the loop if you exceed the above limits
 - In case of not obeying the caution, LinkedIn will send you a warning
