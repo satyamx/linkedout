@@ -25,7 +25,7 @@ It consists of three stages :
 - Selenium
 - Beatiful Soup
 
-- Note: Use the chromedriver uploaded in the driver directory of this repo. Not using this version of chromedriver might throw exceptions due to incompatibility between the version of the binaries. 
+Note: Use the chromedriver uploaded in the driver directory of this repo. Not using this version of chromedriver might throw exceptions due to incompatibility between the version of the binaries. 
 
 ### Installation
 
